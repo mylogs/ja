@@ -18270,7 +18270,7 @@ var MIN_TOP = 0;
 var MIN_BOTTOM = 80;
 
 $(function () {
-	var $sections = $('.section');
+	var $sections = $('.section1');
 
 	var target;
 	$sections.each(function () {
